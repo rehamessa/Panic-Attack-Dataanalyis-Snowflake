@@ -1,0 +1,13 @@
+--- Checking Uniqe Keys
+SELECT
+    id
+FROM PANIC_ATTACK_DATA where ID is NULL;
+
+--- Checking Duplication in Key
+
+SELECT 
+    ID,
+    COUNT(id)
+FROM panic_attack_data
+GROUP by ID
+ORDER BY COUNT(id) desc;
