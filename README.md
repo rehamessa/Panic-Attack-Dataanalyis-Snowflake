@@ -33,6 +33,3 @@ Data analysis and visualization project exploring panic attack patterns using **
 
 
 
-
-   ```bash
-   pip install pandas seaborn matplotlib
