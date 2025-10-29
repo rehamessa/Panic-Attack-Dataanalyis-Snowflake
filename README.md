@@ -25,9 +25,10 @@ Data analysis and visualization project exploring panic attack patterns using **
 
 ![Medical Composite Analysis](https://github.com/rehamessa/Panic-Attack-Dataanalyis-Snowflake/blob/main/Images/Medical%20Composite%20View.png)
 
-![life style Impact Analysis](https://github.com/rehamessa/Panic-Attack-Dataanalyis-Snowflake/blob/main/Images/Lifestyle%20Impact%20View.png)
 
-![Lifestyle Impact View](https://github.com/rehamessa/Panic-Attack-Dataanalyis-Snowflake/blob/main/Images/Lifestyle%20Impact%20View.png)
+![life style Impact Analysis] (https://github.com/rehamessa/Panic-Attack-Dataanalyis-Snowflake/blob/main/Images/Lifestyle%20Impact%20View.png)
+
+
 
 ![HeatMap](https://github.com/rehamessa/Panic-Attack-Dataanalyis-Snowflake/blob/main/Images/HeatMap%20Symptom.png)
 
